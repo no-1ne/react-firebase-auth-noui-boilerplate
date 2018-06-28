@@ -1,5 +1,5 @@
 {
-  "name": "react-firebaseui-starter-kit",
+  "name": "react-firebase-auth-noui-boilerplate",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
